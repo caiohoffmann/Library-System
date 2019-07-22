@@ -1,7 +1,8 @@
 # Library-System
-A simple library system developed for MPP class using JavaFX
+A simple library system developed for MPP class using JavaFX, and MySQL local server version 5.1.63.
 
 Library System developed for a Java course project.
+All the Java code is in the src folder and all the database queries and basic commands are in the database folder.
 Verry simple, work done in tree days, there a lot of problems and mistakes done.
 But the system overall works.
 
